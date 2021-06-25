@@ -1,0 +1,17 @@
+Package: isolationForest
+Title: Isolation forest implementation
+Version: 0.0.0.9000
+Authors@R: 
+    c(person(given = "Jakub",
+           family = "Ficek",
+           role = c("aut", "cre"),
+           email = "01133308@pw.edu.pl"),
+      person(given = "Katarzyna",
+           family = "Rybacka",
+           role = c("aut")))
+Description: Simple isolation forest implementation with predict method. Adjustable parameters: number of trees, number of samples to create tree, number of columns to create tree, max depth of tree.
+License: use_gpl3_license()
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
