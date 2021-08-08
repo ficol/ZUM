@@ -5,10 +5,7 @@ Authors@R:
     c(person(given = "Jakub",
            family = "Ficek",
            role = c("aut", "cre"),
-           email = "01133308@pw.edu.pl"),
-      person(given = "Katarzyna",
-           family = "Rybacka",
-           role = c("aut")))
+           email = "01133308@pw.edu.pl")
 Description: Simple isolation forest implementation with predict method. Adjustable parameters: number of trees, number of samples to create tree, number of columns to create tree, max depth of tree.
 License: use_gpl3_license()
 Encoding: UTF-8
